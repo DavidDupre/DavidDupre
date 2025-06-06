@@ -1,8 +1,6 @@
-[![David Dupre](https://github.com/cesaralvrz/cesaralvrz/blob/master/img/iamge.png)](https://cv-david-gilt.vercel.app/)
+[![David Dupre](https://github.com/DavidDupre/DavidDupre/blob/main/img/image.png?size:100)](https://cv-david-gilt.vercel.app/)
 
 # Hey, I'm David!
-[![LinkedIn] ()]
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-%A9David%20Aldana%20Dupre-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/david-aldana-dupre-9b0098240/)](https://www.linkedin.com/in/david-aldana-dupre-9b0098240/)
 [![Gmail Badge](https://img.shields.io/badge/-DavidDupre-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:d.aldanadupre@gmail.com)](mailto:d.aldanadupre@gmail.com)
