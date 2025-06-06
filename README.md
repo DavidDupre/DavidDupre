@@ -1,4 +1,4 @@
-[![David Dupre](https://github.com/cesaralvrz/cesaralvrz/blob/master/img/banner2.png)](https://cv-david-gilt.vercel.app/)
+[![David Dupre](https://github.com/cesaralvrz/cesaralvrz/blob/master/img/iamge.png)](https://cv-david-gilt.vercel.app/)
 
 # Hey, I'm David!
 [![LinkedIn] ()]
